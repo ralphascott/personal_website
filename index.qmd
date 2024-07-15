@@ -29,7 +29,7 @@ I have previously held positions at Cardiff University and on the [British Elect
 
 My fellowship research focuses on the effect of education on political attitudes and behaviour. Specifically, I am looking to both generalise the effect (how does it vary across time and contexts?) and unpick the mechanisms (*how* does education change someone's political outlook?).
 
-I also maintain research interests in political inequality (how disability affects partisan identity; the impact of voter ID legislation in Britain) and research methodology ([using LLMs to code open response survey data](https://doi.org/10.1177/20531680241231468)).
+I also maintain research interests in political inequality (how disability affects partisan identity; [the impact of voter ID legislation in Britain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966155)) and research methodology ([using LLMs to code open response survey data](https://doi.org/10.1177/20531680241231468)).
 
 You can find my peer-reviewed publications on my [Google Scholar](https://scholar.google.com/citations?user=7tmZ35EAAAAJ&hl=en) profile (contact me with any issues accessing these!), and replication files for these on my [GitHub](https://github.com/ralphascott).
 :::
