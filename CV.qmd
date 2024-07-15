@@ -1,0 +1,7 @@
+---
+title: "CV"
+toc: false
+search: false
+---
+
+{{< pdf cv/CV_academic_24.pdf width=900 height=700 >}}

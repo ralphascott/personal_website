@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "personal_website"
   navbar:
+    title: "Ralph Scott"
+    search: false
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - CV.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
+    search: false
 
 editor: visual
 

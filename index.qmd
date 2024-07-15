@@ -1,13 +1,35 @@
 ---
-title: "personal_website"
+title: "Ralph Scott"
+toc: false
+search: false
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  image: pictures/profile.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ralphascott
+    - icon: github
+      text: Github
+      href: https://github.com/ralphascott
+    - icon: envelope
+      text: Email
+      href: mailto:ralph.scott@bristol.ac.uk
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
+Hi, I'm Ralph Scott.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a political scientist specialising in British politics and quantitative methods. I'm currently a Leverhulme Early Career Fellow in Politics at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/ralph-scott) in the UK.
 
-```{r}
-1 + 1
+I have previously held positions at Cardiff University and on the [British Election Study](https://www.britishelectionstudy.com/) at the University of Manchester, where I also received my PhD. More detail is in my [CV](CV.qmd).
 
+My fellowship research focuses on the effect of education on political attitudes and behaviour. Specifically, I am looking to both generalise the effect (how does it vary across time and contexts?) and unpick the mechanisms (*how* does education change someone's political outlook?).
 
-```
+I also maintain research interests in political inequality (how disability affects partisan identity; the impact of voter ID legislation in Britain) and research methodology ([using LLMs to code open response survey data](https://doi.org/10.1177/20531680241231468)).
+
+You can find my peer-reviewed publications on my [Google Scholar](https://scholar.google.com/citations?user=7tmZ35EAAAAJ&hl=en) profile (contact me with any issues accessing these!), and replication files for these on my [GitHub](https://github.com/ralphascott).
+:::
