@@ -4,4 +4,6 @@ toc: false
 search: false
 ---
 
-{{< pdf cv/CV_academic_24.pdf width=900 height=700 >}}
+Please find my CV below.
+
+{{< pdf cv/CV_academic_24.pdf width=900 height=700 image=cv/cv.png image_width=300 border=1 image_width=400 image_border=1 >}}
