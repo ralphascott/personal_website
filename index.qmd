@@ -9,9 +9,9 @@ about:
   image-width: 20em
   image: pictures/profile.jpg
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ralphascott
+    - icon: cloud
+      text: Bluesky
+      href: https://bsky.app/profile/ralphscott.bsky.social
     - icon: github
       text: Github
       href: https://github.com/ralphascott
